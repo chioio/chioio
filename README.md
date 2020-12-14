@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! This is Tenn Chio 🧸 - A FRONT-END DEVELOPER
 
 <!--
 **chioio/chioio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
