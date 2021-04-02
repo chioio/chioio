@@ -1,6 +1,12 @@
-### Hi! This is Tenn Chio 🧸 - A FRONT-END DEVELOPER
+### Hi! This is Tenn Chio 🧸 - A FRONT-END EXPLORER
 
+- 📚 I'm still in undergraduate school, and major in computer science.
+- 🌐 This is my page [chioio.tech](https://chioio.tech), it is deployed on the Alicloud FC service.
+- 🔗 You can also find me in the [Juejin](https://juejin.cn/user/1521379825688637) community.
+
+<!--
 [![Tenn Chio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chioio&include_all_commits=true&show_icons=true)](https://chioio.github.io)
+-->
 
 <!--
 **chioio/chioio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
