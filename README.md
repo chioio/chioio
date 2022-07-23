@@ -1,7 +1,7 @@
 ### Hi! This is Tenn Chio 🧸 - A FRONT-END EXPLORER
 
-- 📚 I'm still in undergraduate school, and major in computer science.
-- 🌐 This is my page [chioio.tech](https://chioio.tech), it is deployed on the Alicloud FC service.
+- 📚 Graduated in 2022, major in computer science.
+- 🌐 This is my page [chioio.tech](https://chioio.tech), it is deployed on the Vercel serverless service.
 - 🔗 You can also find me in the [Juejin](https://juejin.cn/user/1521379825688637) community.
 
 <!--
